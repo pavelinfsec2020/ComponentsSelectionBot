@@ -1,0 +1,1 @@
+В папке BlocksDescription находятся описание блоков блок-схемы, представленной в diagram - одноименный png и json файл, который можно открыть на ресурсе https://programforyou.ru/block-diagram-redactor
